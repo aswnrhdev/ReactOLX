@@ -162,3 +162,12 @@
     display: none;
   }
 }
+
+
+.spanLogout:hover{
+  cursor: pointer;
+}
+
+.brandName:hover{
+  cursor: pointer;
+}
